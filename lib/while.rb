@@ -3,9 +3,7 @@ def using_while
 	while levitation_force < 10  
 	  puts "Wingardium Leviosa!"
 	  levitation_force+= 1 
-	  puts "Your levitation force is now #{levitation_force}."
 	end
-puts "Our feather is flying high!"
 end
 
 using_while
